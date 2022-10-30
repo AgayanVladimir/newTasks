@@ -3,24 +3,19 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-
 body {
 	background-color: aqua;
 }
-
 .container {
 	max-width: 1200px;
 	margin: 0 auto;
 }
-
 .collaps {
 	margin-top: 30px;
 }
-
 .collaps__item {
 	margin-bottom: 30px;
 }
-
 .collaps__item_title {
 	padding: 10px;
 	text-align: center;
@@ -31,7 +26,6 @@ body {
 	border: 3px dotted black;
 	cursor: pointer;
 }
-
 .collaps__item_content {
 	font-size: 20px;
 	max-height: 0px;
