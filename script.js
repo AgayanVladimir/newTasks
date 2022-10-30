@@ -13,6 +13,5 @@ buttonsCollaps.forEach((element) => {
 			})
 			content.style.maxHeight = `${content.scrollHeight}px`
 		}
-
 	})
 })
